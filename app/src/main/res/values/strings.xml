@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QR &amp; Barcode Scanner</string>
+    <string name="description">Para escanear el código QR pulse el botón de abajo y enfoque al código: la aplicación reconocerá automáticamente cualquier código QR o de barras. \n \n Si el código contiene una URL, la aplicación la abrirá en el navegador automáticamente. Si el código contiene sólo texto, la aplicación lo mostrará unos instantes.</string>
+    <string name="scan_code">Escanear</string>
 </resources>
